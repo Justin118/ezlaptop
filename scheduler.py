@@ -50,10 +50,10 @@ def run_local_poc(patient_exams, next_appointment_date_str):
     # -----------------------------
     # 1) 입력 데이터 로드 및 전처리
     # -----------------------------
-    slots_data = load_data('slots_data.json')         # 가능한 모든 슬롯 정보
-    rules_data = load_data('constraints.json')        # 제약 및 전역 설정
+    slots_data = load_data('slots_data.json') # 가능한 모든 슬롯 정보
+    rules_data = load_data('constraints.json') # 제약 및 전역 설정
 
-    required_exams = patient_exams  # 사용자가 받아야 하는 검사들
+    required_exams = patient_exams # 사용자가 받아야 하는 검사들
 
     # constraints.json에 명시된 'result_waiting_days' 만큼 여유를 두고 검사 완료 기한 계산
     N_DAYS = rules_data['result_waiting_days']
@@ -61,12 +61,18 @@ def run_local_poc(patient_exams, next_appointment_date_str):
     deadline_date = next_appointment_date - timedelta(days=N_DAYS)
     print(f"📌 다음 진료일: {next_appointment_date} | 검사 완료 기한: {deadline_date}")
 
-    # 검사 기한을 초과하는 슬롯은 고려하지 않음
+    # 검사 기한을 초과하거나, 이미 예약된 슬롯은 고려하지 않음
     valid_slots = []
     for slot in slots_data:
         slot_date = datetime.strptime(slot['date'], '%Y-%m-%d').date()
-        # 슬롯 날짜가 데드라인 이전(또는 동일)이고 해당 슬롯의 검사가 required_exams에 있을 때만 유효
-        if slot_date <= deadline_date and slot['exam'] in required_exams:
+
+        # 🚨 수정된 부분: is_available 검사 조건 추가 🚨
+        is_available = slot.get('is_available', True) # 필드가 없으면 기본값 True로 간주
+
+        # 슬롯 날짜가 데드라인 이전, 검사 종류가 필수 목록에 포함, 그리고 예약 가능할 때만 유효
+        if (slot_date <= deadline_date and 
+            slot['exam'] in required_exams and 
+            is_available):
             valid_slots.append(slot)
 
     if not valid_slots:
@@ -74,7 +80,7 @@ def run_local_poc(patient_exams, next_appointment_date_str):
         return
 
     all_slots = valid_slots
-
+    
     # -----------------------------
     # 2) CP-SAT 모델링 (변수 및 제약 추가)
     # -----------------------------

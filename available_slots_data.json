@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-01",
+    "day": 1,
+    "start_min": 540,
+    "end_min": 570,
+    "is_available": true,
+    "time_status_display": "09:00-09:30, 예약 가능"
+  },
+  {
+    "id": 5,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-01",
+    "day": 1,
+    "start_min": 570,
+    "end_min": 600,
+    "is_available": true,
+    "time_status_display": "09:30-10:00, 예약 가능"
+  },
+  {
+    "id": 37,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-01",
+    "day": 1,
+    "start_min": 810,
+    "end_min": 840,
+    "is_available": true,
+    "time_status_display": "13:30-14:00, 예약 가능"
+  },
+  {
+    "id": 41,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-01",
+    "day": 1,
+    "start_min": 840,
+    "end_min": 870,
+    "is_available": true,
+    "time_status_display": "14:00-14:30, 예약 가능"
+  },
+  {
+    "id": 71,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-02",
+    "day": 2,
+    "start_min": 600,
+    "end_min": 630,
+    "is_available": true,
+    "time_status_display": "10:00-10:30, 예약 가능"
+  },
+  {
+    "id": 111,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-02",
+    "day": 2,
+    "start_min": 900,
+    "end_min": 930,
+    "is_available": true,
+    "time_status_display": "15:00-15:30, 예약 가능"
+  },
+  {
+    "id": 141,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 660,
+    "end_min": 690,
+    "is_available": true,
+    "time_status_display": "11:00-11:30, 예약 가능"
+  },
+  {
+    "id": 153,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 750,
+    "end_min": 780,
+    "is_available": true,
+    "time_status_display": "12:30-13:00, 예약 가능"
+  },
+  {
+    "id": 169,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 870,
+    "end_min": 900,
+    "is_available": true,
+    "time_status_display": "14:30-15:00, 예약 가능"
+  },
+  {
+    "id": 185,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 990,
+    "end_min": 1020,
+    "is_available": true,
+    "time_status_display": "16:30-17:00, 예약 가능"
+  },
+  {
+    "id": 243,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-04",
+    "day": 4,
+    "start_min": 960,
+    "end_min": 990,
+    "is_available": true,
+    "time_status_display": "16:00-16:30, 예약 가능"
+  },
+  {
+    "id": 249,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 540,
+    "end_min": 570,
+    "is_available": true,
+    "time_status_display": "09:00-09:30, 예약 가능"
+  },
+  {
+    "id": 253,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 570,
+    "end_min": 600,
+    "is_available": true,
+    "time_status_display": "09:30-10:00, 예약 가능"
+  },
+  {
+    "id": 257,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 600,
+    "end_min": 630,
+    "is_available": true,
+    "time_status_display": "10:00-10:30, 예약 가능"
+  },
+  {
+    "id": 261,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 630,
+    "end_min": 660,
+    "is_available": true,
+    "time_status_display": "10:30-11:00, 예약 가능"
+  },
+  {
+    "id": 265,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 660,
+    "end_min": 690,
+    "is_available": true,
+    "time_status_display": "11:00-11:30, 예약 가능"
+  },
+  {
+    "id": 277,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 750,
+    "end_min": 780,
+    "is_available": true,
+    "time_status_display": "12:30-13:00, 예약 가능"
+  },
+  {
+    "id": 301,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 930,
+    "end_min": 960,
+    "is_available": true,
+    "time_status_display": "15:30-16:00, 예약 가능"
+  },
+  {
+    "id": 311,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-08",
+    "day": 8,
+    "start_min": 540,
+    "end_min": 570,
+    "is_available": true,
+    "time_status_display": "09:00-09:30, 예약 가능"
+  },
+  {
+    "id": 343,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-08",
+    "day": 8,
+    "start_min": 780,
+    "end_min": 810,
+    "is_available": true,
+    "time_status_display": "13:00-13:30, 예약 가능"
+  },
+  {
+    "id": 347,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-08",
+    "day": 8,
+    "start_min": 810,
+    "end_min": 840,
+    "is_available": true,
+    "time_status_display": "13:30-14:00, 예약 가능"
+  },
+  {
+    "id": 393,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-09",
+    "day": 9,
+    "start_min": 690,
+    "end_min": 720,
+    "is_available": true,
+    "time_status_display": "11:30-12:00, 예약 가능"
+  },
+  {
+    "id": 433,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-09",
+    "day": 9,
+    "start_min": 990,
+    "end_min": 1020,
+    "is_available": true,
+    "time_status_display": "16:30-17:00, 예약 가능"
+  },
+  {
+    "id": 439,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-10",
+    "day": 10,
+    "start_min": 570,
+    "end_min": 600,
+    "is_available": true,
+    "time_status_display": "09:30-10:00, 예약 가능"
+  },
+  {
+    "id": 443,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-10",
+    "day": 10,
+    "start_min": 600,
+    "end_min": 630,
+    "is_available": true,
+    "time_status_display": "10:00-10:30, 예약 가능"
+  },
+  {
+    "id": 463,
+    "exam": "Exam_A_CT",
+    "date": "2025-12-10",
+    "day": 10,
+    "start_min": 750,
+    "end_min": 780,
+    "is_available": true,
+    "time_status_display": "12:30-13:00, 예약 가능"
+  },
+  {
+    "id": 2,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-01",
+    "day": 1,
+    "start_min": 540,
+    "end_min": 600,
+    "is_available": true,
+    "time_status_display": "09:00-10:00, 예약 가능"
+  },
+  {
+    "id": 6,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-01",
+    "day": 1,
+    "start_min": 570,
+    "end_min": 630,
+    "is_available": true,
+    "time_status_display": "09:30-10:30, 예약 가능"
+  },
+  {
+    "id": 30,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-01",
+    "day": 1,
+    "start_min": 750,
+    "end_min": 810,
+    "is_available": true,
+    "time_status_display": "12:30-13:30, 예약 가능"
+  },
+  {
+    "id": 84,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-02",
+    "day": 2,
+    "start_min": 690,
+    "end_min": 750,
+    "is_available": true,
+    "time_status_display": "11:30-12:30, 예약 가능"
+  },
+  {
+    "id": 134,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 600,
+    "end_min": 660,
+    "is_available": true,
+    "time_status_display": "10:00-11:00, 예약 가능"
+  },
+  {
+    "id": 138,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 630,
+    "end_min": 690,
+    "is_available": true,
+    "time_status_display": "10:30-11:30, 예약 가능"
+  },
+  {
+    "id": 142,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 660,
+    "end_min": 720,
+    "is_available": true,
+    "time_status_display": "11:00-12:00, 예약 가능"
+  },
+  {
+    "id": 154,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 750,
+    "end_min": 810,
+    "is_available": true,
+    "time_status_display": "12:30-13:30, 예약 가능"
+  },
+  {
+    "id": 170,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 870,
+    "end_min": 930,
+    "is_available": true,
+    "time_status_display": "14:30-15:30, 예약 가능"
+  },
+  {
+    "id": 178,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 930,
+    "end_min": 990,
+    "is_available": true,
+    "time_status_display": "15:30-16:30, 예약 가능"
+  },
+  {
+    "id": 204,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-04",
+    "day": 4,
+    "start_min": 660,
+    "end_min": 720,
+    "is_available": true,
+    "time_status_display": "11:00-12:00, 예약 가능"
+  },
+  {
+    "id": 224,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-04",
+    "day": 4,
+    "start_min": 810,
+    "end_min": 870,
+    "is_available": true,
+    "time_status_display": "13:30-14:30, 예약 가능"
+  },
+  {
+    "id": 236,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-04",
+    "day": 4,
+    "start_min": 900,
+    "end_min": 960,
+    "is_available": true,
+    "time_status_display": "15:00-16:00, 예약 가능"
+  },
+  {
+    "id": 258,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 600,
+    "end_min": 660,
+    "is_available": true,
+    "time_status_display": "10:00-11:00, 예약 가능"
+  },
+  {
+    "id": 274,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 720,
+    "end_min": 780,
+    "is_available": true,
+    "time_status_display": "12:00-13:00, 예약 가능"
+  },
+  {
+    "id": 278,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 750,
+    "end_min": 810,
+    "is_available": true,
+    "time_status_display": "12:30-13:30, 예약 가능"
+  },
+  {
+    "id": 294,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 870,
+    "end_min": 930,
+    "is_available": true,
+    "time_status_display": "14:30-15:30, 예약 가능"
+  },
+  {
+    "id": 298,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 900,
+    "end_min": 960,
+    "is_available": true,
+    "time_status_display": "15:00-16:00, 예약 가능"
+  },
+  {
+    "id": 302,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 930,
+    "end_min": 990,
+    "is_available": true,
+    "time_status_display": "15:30-16:30, 예약 가능"
+  },
+  {
+    "id": 332,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-08",
+    "day": 8,
+    "start_min": 690,
+    "end_min": 750,
+    "is_available": true,
+    "time_status_display": "11:30-12:30, 예약 가능"
+  },
+  {
+    "id": 348,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-08",
+    "day": 8,
+    "start_min": 810,
+    "end_min": 870,
+    "is_available": true,
+    "time_status_display": "13:30-14:30, 예약 가능"
+  },
+  {
+    "id": 368,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-08",
+    "day": 8,
+    "start_min": 960,
+    "end_min": 1020,
+    "is_available": true,
+    "time_status_display": "16:00-17:00, 예약 가능"
+  },
+  {
+    "id": 426,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-09",
+    "day": 9,
+    "start_min": 930,
+    "end_min": 990,
+    "is_available": true,
+    "time_status_display": "15:30-16:30, 예약 가능"
+  },
+  {
+    "id": 430,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-09",
+    "day": 9,
+    "start_min": 960,
+    "end_min": 1020,
+    "is_available": true,
+    "time_status_display": "16:00-17:00, 예약 가능"
+  },
+  {
+    "id": 448,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-10",
+    "day": 10,
+    "start_min": 630,
+    "end_min": 690,
+    "is_available": true,
+    "time_status_display": "10:30-11:30, 예약 가능"
+  },
+  {
+    "id": 452,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-10",
+    "day": 10,
+    "start_min": 660,
+    "end_min": 720,
+    "is_available": true,
+    "time_status_display": "11:00-12:00, 예약 가능"
+  },
+  {
+    "id": 492,
+    "exam": "Exam_B_MRI",
+    "date": "2025-12-10",
+    "day": 10,
+    "start_min": 960,
+    "end_min": 1020,
+    "is_available": true,
+    "time_status_display": "16:00-17:00, 예약 가능"
+  },
+  {
+    "id": 35,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-01",
+    "day": 1,
+    "start_min": 780,
+    "end_min": 825,
+    "is_available": true,
+    "time_status_display": "13:00-13:45, 예약 가능"
+  },
+  {
+    "id": 89,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-02",
+    "day": 2,
+    "start_min": 720,
+    "end_min": 765,
+    "is_available": true,
+    "time_status_display": "12:00-12:45, 예약 가능"
+  },
+  {
+    "id": 97,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-02",
+    "day": 2,
+    "start_min": 780,
+    "end_min": 825,
+    "is_available": true,
+    "time_status_display": "13:00-13:45, 예약 가능"
+  },
+  {
+    "id": 117,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-02",
+    "day": 2,
+    "start_min": 930,
+    "end_min": 975,
+    "is_available": true,
+    "time_status_display": "15:30-16:15, 예약 가능"
+  },
+  {
+    "id": 217,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-04",
+    "day": 4,
+    "start_min": 750,
+    "end_min": 795,
+    "is_available": true,
+    "time_status_display": "12:30-13:15, 예약 가능"
+  },
+  {
+    "id": 221,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-04",
+    "day": 4,
+    "start_min": 780,
+    "end_min": 825,
+    "is_available": true,
+    "time_status_display": "13:00-13:45, 예약 가능"
+  },
+  {
+    "id": 251,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 540,
+    "end_min": 585,
+    "is_available": true,
+    "time_status_display": "09:00-09:45, 예약 가능"
+  },
+  {
+    "id": 255,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 570,
+    "end_min": 615,
+    "is_available": true,
+    "time_status_display": "09:30-10:15, 예약 가능"
+  },
+  {
+    "id": 291,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 840,
+    "end_min": 885,
+    "is_available": true,
+    "time_status_display": "14:00-14:45, 예약 가능"
+  },
+  {
+    "id": 307,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 960,
+    "end_min": 1005,
+    "is_available": true,
+    "time_status_display": "16:00-16:45, 예약 가능"
+  },
+  {
+    "id": 383,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-09",
+    "day": 9,
+    "start_min": 600,
+    "end_min": 645,
+    "is_available": true,
+    "time_status_display": "10:00-10:45, 예약 가능"
+  },
+  {
+    "id": 403,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-09",
+    "day": 9,
+    "start_min": 750,
+    "end_min": 795,
+    "is_available": true,
+    "time_status_display": "12:30-13:15, 예약 가능"
+  },
+  {
+    "id": 419,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-09",
+    "day": 9,
+    "start_min": 870,
+    "end_min": 915,
+    "is_available": true,
+    "time_status_display": "14:30-15:15, 예약 가능"
+  },
+  {
+    "id": 445,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-10",
+    "day": 10,
+    "start_min": 600,
+    "end_min": 645,
+    "is_available": true,
+    "time_status_display": "10:00-10:45, 예약 가능"
+  },
+  {
+    "id": 453,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-10",
+    "day": 10,
+    "start_min": 660,
+    "end_min": 705,
+    "is_available": true,
+    "time_status_display": "11:00-11:45, 예약 가능"
+  },
+  {
+    "id": 465,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-10",
+    "day": 10,
+    "start_min": 750,
+    "end_min": 795,
+    "is_available": true,
+    "time_status_display": "12:30-13:15, 예약 가능"
+  },
+  {
+    "id": 481,
+    "exam": "Exam_C_Endoscopy",
+    "date": "2025-12-10",
+    "day": 10,
+    "start_min": 870,
+    "end_min": 915,
+    "is_available": true,
+    "time_status_display": "14:30-15:15, 예약 가능"
+  },
+  {
+    "id": 16,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-01",
+    "day": 1,
+    "start_min": 630,
+    "end_min": 645,
+    "is_available": true,
+    "time_status_display": "10:30-10:45, 예약 가능"
+  },
+  {
+    "id": 20,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-01",
+    "day": 1,
+    "start_min": 660,
+    "end_min": 675,
+    "is_available": true,
+    "time_status_display": "11:00-11:15, 예약 가능"
+  },
+  {
+    "id": 56,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-01",
+    "day": 1,
+    "start_min": 930,
+    "end_min": 945,
+    "is_available": true,
+    "time_status_display": "15:30-15:45, 예약 가능"
+  },
+  {
+    "id": 62,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-01",
+    "day": 1,
+    "start_min": 990,
+    "end_min": 1005,
+    "is_available": true,
+    "time_status_display": "16:30-16:45, 예약 가능"
+  },
+  {
+    "id": 66,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-02",
+    "day": 2,
+    "start_min": 540,
+    "end_min": 555,
+    "is_available": true,
+    "time_status_display": "09:00-09:15, 예약 가능"
+  },
+  {
+    "id": 74,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-02",
+    "day": 2,
+    "start_min": 600,
+    "end_min": 615,
+    "is_available": true,
+    "time_status_display": "10:00-10:15, 예약 가능"
+  },
+  {
+    "id": 114,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-02",
+    "day": 2,
+    "start_min": 900,
+    "end_min": 915,
+    "is_available": true,
+    "time_status_display": "15:00-15:15, 예약 가능"
+  },
+  {
+    "id": 118,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-02",
+    "day": 2,
+    "start_min": 930,
+    "end_min": 945,
+    "is_available": true,
+    "time_status_display": "15:30-15:45, 예약 가능"
+  },
+  {
+    "id": 128,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 540,
+    "end_min": 555,
+    "is_available": true,
+    "time_status_display": "09:00-09:15, 예약 가능"
+  },
+  {
+    "id": 136,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 600,
+    "end_min": 615,
+    "is_available": true,
+    "time_status_display": "10:00-10:15, 예약 가능"
+  },
+  {
+    "id": 164,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 810,
+    "end_min": 825,
+    "is_available": true,
+    "time_status_display": "13:30-13:45, 예약 가능"
+  },
+  {
+    "id": 168,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 840,
+    "end_min": 855,
+    "is_available": true,
+    "time_status_display": "14:00-14:15, 예약 가능"
+  },
+  {
+    "id": 176,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 900,
+    "end_min": 915,
+    "is_available": true,
+    "time_status_display": "15:00-15:15, 예약 가능"
+  },
+  {
+    "id": 186,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-03",
+    "day": 3,
+    "start_min": 990,
+    "end_min": 1005,
+    "is_available": true,
+    "time_status_display": "16:30-16:45, 예약 가능"
+  },
+  {
+    "id": 248,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-04",
+    "day": 4,
+    "start_min": 990,
+    "end_min": 1005,
+    "is_available": true,
+    "time_status_display": "16:30-16:45, 예약 가능"
+  },
+  {
+    "id": 252,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 540,
+    "end_min": 555,
+    "is_available": true,
+    "time_status_display": "09:00-09:15, 예약 가능"
+  },
+  {
+    "id": 280,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-05",
+    "day": 5,
+    "start_min": 750,
+    "end_min": 765,
+    "is_available": true,
+    "time_status_display": "12:30-12:45, 예약 가능"
+  },
+  {
+    "id": 318,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-08",
+    "day": 8,
+    "start_min": 570,
+    "end_min": 585,
+    "is_available": true,
+    "time_status_display": "09:30-09:45, 예약 가능"
+  },
+  {
+    "id": 338,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-08",
+    "day": 8,
+    "start_min": 720,
+    "end_min": 735,
+    "is_available": true,
+    "time_status_display": "12:00-12:15, 예약 가능"
+  },
+  {
+    "id": 346,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-08",
+    "day": 8,
+    "start_min": 780,
+    "end_min": 795,
+    "is_available": true,
+    "time_status_display": "13:00-13:15, 예약 가능"
+  },
+  {
+    "id": 354,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-08",
+    "day": 8,
+    "start_min": 840,
+    "end_min": 855,
+    "is_available": true,
+    "time_status_display": "14:00-14:15, 예약 가능"
+  },
+  {
+    "id": 376,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-09",
+    "day": 9,
+    "start_min": 540,
+    "end_min": 555,
+    "is_available": true,
+    "time_status_display": "09:00-09:15, 예약 가능"
+  },
+  {
+    "id": 388,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-09",
+    "day": 9,
+    "start_min": 630,
+    "end_min": 645,
+    "is_available": true,
+    "time_status_display": "10:30-10:45, 예약 가능"
+  },
+  {
+    "id": 412,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-09",
+    "day": 9,
+    "start_min": 810,
+    "end_min": 825,
+    "is_available": true,
+    "time_status_display": "13:30-13:45, 예약 가능"
+  },
+  {
+    "id": 420,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-09",
+    "day": 9,
+    "start_min": 870,
+    "end_min": 885,
+    "is_available": true,
+    "time_status_display": "14:30-14:45, 예약 가능"
+  },
+  {
+    "id": 424,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-09",
+    "day": 9,
+    "start_min": 900,
+    "end_min": 915,
+    "is_available": true,
+    "time_status_display": "15:00-15:15, 예약 가능"
+  },
+  {
+    "id": 446,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-10",
+    "day": 10,
+    "start_min": 600,
+    "end_min": 615,
+    "is_available": true,
+    "time_status_display": "10:00-10:15, 예약 가능"
+  },
+  {
+    "id": 466,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-10",
+    "day": 10,
+    "start_min": 750,
+    "end_min": 765,
+    "is_available": true,
+    "time_status_display": "12:30-12:45, 예약 가능"
+  },
+  {
+    "id": 474,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-10",
+    "day": 10,
+    "start_min": 810,
+    "end_min": 825,
+    "is_available": true,
+    "time_status_display": "13:30-13:45, 예약 가능"
+  },
+  {
+    "id": 494,
+    "exam": "Exam_D_BloodTest",
+    "date": "2025-12-10",
+    "day": 10,
+    "start_min": 960,
+    "end_min": 975,
+    "is_available": true,
+    "time_status_display": "16:00-16:15, 예약 가능"
+  }
+]
