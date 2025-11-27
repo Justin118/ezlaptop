@@ -1,0 +1,13 @@
+[
+    {"id": 1, "exam": "Exam_A_CT", "date": "2025-12-01", "day": 1, "start_min": 540, "end_min": 570},
+    {"id": 2, "exam": "Exam_A_CT", "date": "2025-12-02", "day": 2, "start_min": 800, "end_min": 830},
+    
+    {"id": 3, "exam": "Exam_B_MRI", "date": "2025-12-01", "day": 1, "start_min": 600, "end_min": 660},
+    {"id": 4, "exam": "Exam_B_MRI", "date": "2025-12-02", "day": 2, "start_min": 700, "end_min": 760},
+
+    {"id": 5, "exam": "Exam_C_Endoscopy", "date": "2025-12-01", "day": 1, "start_min": 720, "end_min": 765},
+    {"id": 6, "exam": "Exam_C_Endoscopy", "date": "2025-12-02", "day": 2, "start_min": 850, "end_min": 895},
+
+    {"id": 7, "exam": "Exam_D_BloodTest", "date": "2025-12-01", "day": 1, "start_min": 500, "end_min": 515},
+    {"id": 8, "exam": "Exam_D_BloodTest", "date": "2025-12-02", "day": 2, "start_min": 700, "end_min": 715}
+]

@@ -1,0 +1,21 @@
+{
+  "exam_metadata": {
+    "Exam_A_CT": {"duration_minutes": 30},
+    "Exam_B_MRI": {"duration_minutes": 60},
+    "Exam_C_Endoscopy": {"duration_minutes": 45},
+    "Exam_D_BloodTest": {"duration_minutes": 15}
+  },
+
+  "constraints": {
+    "cannot_same_day": [
+       ["Exam_B_MRI", "Exam_C_Endoscopy"] 
+    ],
+    "must_same_day": [
+       ["Exam_A_CT", "Exam_D_BloodTest"] 
+    ],
+    "sequence_and_gap": [
+       {"pre": "Exam_D_BloodTest", "post": "Exam_C_Endoscopy", "min_gap_minutes": 120, "reversible": 0}
+    ]
+  },
+  "result_waiting_days": 7
+}
